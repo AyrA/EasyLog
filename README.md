@@ -19,7 +19,7 @@ but allows to delay for arbitrary amounts of time to simulate a slow logging bac
 
 ## Usage
 
-Simple usage with a pre-made logger below
+Simple usage with a pre-made logger below. For a bigger demonstration, check out the EasyLogDemo project.
 
 ```C#
 
